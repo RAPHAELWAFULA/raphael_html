@@ -1,0 +1,22 @@
+button {
+  margin: 70px;
+  border: 500px;
+  border-radius: 100px;
+  padding: 20px 25px;
+  size: 500px;
+  cursor: pointer;
+}
+div {
+  background-color: aqua;
+}
+body {
+  font-style: roboto;
+}
+section {
+  color: blue;
+  font-size: 25px;
+}
+article {
+  color: red;
+  font-size: 25px;
+}
